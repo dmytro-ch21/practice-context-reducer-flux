@@ -1,5 +1,4 @@
 import { createContext, useState } from 'react';
-import Logo from './components/Logo';
 import ParentComponent from './components/contextPractice/ParentComponent';
 
 // First we need to create a context
